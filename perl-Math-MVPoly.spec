@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	Math
-%define	pnam	MVPoly
+%define		pdir	Math
+%define		pnam	MVPoly
 Summary:	MVPoly - multi-variable polynomial algebra library
 Summary(pl):	MVPoly - biblioteka algebry na wielomianach z wieloma zmiennymi
 Name:		perl-Math-MVPoly
