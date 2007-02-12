@@ -6,7 +6,7 @@
 %define		pdir	Math
 %define		pnam	MVPoly
 Summary:	MVPoly - multi-variable polynomial algebra library
-Summary(pl):	MVPoly - biblioteka algebry na wielomianach z wieloma zmiennymi
+Summary(pl.UTF-8):   MVPoly - biblioteka algebry na wielomianach z wieloma zmiennymi
 Name:		perl-Math-MVPoly
 Version:	0.8b
 Release:	1
@@ -29,12 +29,12 @@ degree. Variable orderings are also supported. A parser is included as
 a means to construct a simple command-line interfaces similar to that
 of Maple.
 
-%description -l pl
+%description -l pl.UTF-8
 MVPoly to biblioteka i interpreter algebry na wielomianach z wieloma
-zmiennymi. Ma zaimplementowan± podstawow± funkcjonalno¶æ algebraiczn±,
-aby obs³ugiwaæ operacje w³±cznie z okre¶laniem bazy Groebnera.
-Obs³ugiwane s± cztery porz±dki jednomianów: grlex, grevlex, lex i
-³±cznego stopnia.
+zmiennymi. Ma zaimplementowanÄ… podstawowÄ… funkcjonalnoÅ›Ä‡ algebraicznÄ…,
+aby obsÅ‚ugiwaÄ‡ operacje wÅ‚Ä…cznie z okreÅ›laniem bazy Groebnera.
+ObsÅ‚ugiwane sÄ… cztery porzÄ…dki jednomianÃ³w: grlex, grevlex, lex i
+Å‚Ä…cznego stopnia.
 
 %prep
 %setup -q -n %{pnam}
