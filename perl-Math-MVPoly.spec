@@ -6,7 +6,7 @@
 %define		pdir	Math
 %define		pnam	MVPoly
 Summary:	MVPoly - multi-variable polynomial algebra library
-Summary(pl.UTF-8):   MVPoly - biblioteka algebry na wielomianach z wieloma zmiennymi
+Summary(pl.UTF-8):	MVPoly - biblioteka algebry na wielomianach z wieloma zmiennymi
 Name:		perl-Math-MVPoly
 Version:	0.8b
 Release:	1
