@@ -4,7 +4,6 @@
 
 %define		pdir	Math
 %define		pnam	MVPoly
-%include	/usr/lib/rpm/macros.perl
 Summary:	MVPoly - multi-variable polynomial algebra library
 Summary(pl.UTF-8):	MVPoly - biblioteka algebry na wielomianach z wieloma zmiennymi
 Name:		perl-Math-MVPoly
